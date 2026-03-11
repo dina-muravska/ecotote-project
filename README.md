@@ -2,11 +2,7 @@ Ecotote-project
 
 # 🌿 EcoTote — Eco-Friendly Bags Website
 
-![Website Preview](<img width="1865" height="903" alt="image" src="https://github.com/user-attachments/assets/868e11da-d44f-40b5-b9a9-7cab39eefd92" />
-)
-
 Modern responsive landing page for an eco-friendly brand that promotes sustainable lifestyle and reusable products.
-
 EcoTote presents stylish and practical eco bags designed for people who care about the environment. The website showcases the brand’s mission, product assortment, and customer feedback in a clean and modern interface.
 
 ---
@@ -168,4 +164,5 @@ Build for production
 npm run build
 ```
 ---
+
 
