@@ -1,5 +1,3 @@
-Ecotote-project
-
 # 🌿 EcoTote — Eco-Friendly Bags Website
 
 Modern responsive landing page for an eco-friendly brand that promotes sustainable lifestyle and reusable products.
@@ -164,5 +162,6 @@ Build for production
 npm run build
 ```
 ---
+
 
 
