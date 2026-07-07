@@ -5,6 +5,13 @@ EcoTote presents stylish and practical eco bags designed for people who care abo
 
 ---
 
+## 🖼️ Preview
+
+<img width="1763" height="767" alt="image" src="https://github.com/user-attachments/assets/8d4358cd-ecd4-4260-a667-40943cfae7be" />
+
+
+---
+
 ## 🚀 Live Demo
 
 - 🌐 Live Site: https://dina-muravska.github.io/ecotote-project/
